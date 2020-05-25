@@ -1,0 +1,12 @@
+{
+  "name": "com.mcmath.usb",
+  "displayName": "USB",
+  "version": "0.0.1-preview1",
+  "unity": "2019.3",
+  "unityRelease": "13f1",
+  "description": "Unity Storybook",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chrismcmath/USB.git"
+  }
+}
