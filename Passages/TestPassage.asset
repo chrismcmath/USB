@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5a2925b3454209b4b26ebe874ce017, type: 3}
+  m_Name: TestPassage
+  m_EditorClassIdentifier: 
+  Fragments:
+  - Text: Hello.
+    Audio: {fileID: 8300000, guid: 22d36b05f05464b10bfacaa6e702ddad, type: 3}
+  - Text: This is
+    Audio: {fileID: 8300000, guid: 25e8dde6001674d96aee9d49ae093eac, type: 3}
+  - Text: a passage.
+    Audio: {fileID: 8300000, guid: ba65d41ab340d4b1aab55358255ae155, type: 3}
+  - Text: 'A passage is '
+    Audio: {fileID: 8300000, guid: 1d4a2b185872e438f9d95204f367da92, type: 3}
+  - Text: made up of
+    Audio: {fileID: 8300000, guid: fecf6b2bb4ab04cf7b5cda7a9a150883, type: 3}
+  - Text: fragments
+    Audio: {fileID: 8300000, guid: 0964c290afa0044208e810cdd091df41, type: 3}
+  - Text: like this.
+    Audio: {fileID: 8300000, guid: 8f29f72fdce1048f4a1ae76ada18a318, type: 3}
+  - Text: 'Click a fragment '
+    Audio: {fileID: 8300000, guid: 92ba16454918349099c05a3db4a0cbe9, type: 3}
+  - Text: to replay it.
+    Audio: {fileID: 8300000, guid: b46e8b245bb3e407b970073439f3d56b, type: 3}
