@@ -6,7 +6,7 @@
 	"unityRelease": "13f1",
 	"description": "Unity Storybook",
 	"dependencies": {
-		"com.malee.reorderablelist": "1.0.0" 
+  		"com.malee.reorderablelist": "https://github.com/cfoulston/Unity-Reorderable-List.git"
 	},
 	"repository": {
 		"type": "git",
