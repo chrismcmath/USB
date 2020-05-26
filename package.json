@@ -1,12 +1,22 @@
 {
-  "name": "com.mcmath.usb",
-  "displayName": "USB",
-  "version": "0.0.1-preview1",
-  "unity": "2019.3",
-  "unityRelease": "13f1",
-  "description": "Unity Storybook",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:chrismcmath/USB.git"
-  }
+	"name": "com.mcmath.usb",
+	"displayName": "USB",
+	"version": "0.0.1-preview2",
+	"unity": "2019.3",
+	"unityRelease": "13f1",
+	"description": "Unity Storybook",
+	"dependencies": {
+		"com.malee.reorderablelist": "1.0.0" 
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:chrismcmath/USB.git"
+	},
+	"samples": [
+		{
+			"displayName": "Talking Text",
+			"description": "Example showing how to use create talking text with Passages and Fragments",
+			"path": "Samples~/TalkingText"
+		}
+	]
 }
