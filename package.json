@@ -1,13 +1,10 @@
 {
 	"name": "com.mcmath.usb",
 	"displayName": "USB",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"unity": "2019.3",
 	"unityRelease": "13f1",
 	"description": "Unity Storybook",
-	"dependencies": {
-  		"com.malee.reorderablelist": "https://github.com/cfoulston/Unity-Reorderable-List.git"
-	},
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:chrismcmath/USB.git"
